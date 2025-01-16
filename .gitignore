@@ -1,0 +1,21 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos JSON en la carpeta de indice
+indice/*.json
+
+# CSVs para la construcción del índice inicial
+backend/data/
+
+#pycache
+backend/__pycache__/
+
+#other files
+backend/postgres.py 
+backend/api1.py
+backend/api.py
+package-lock.json
+old_frontend/
